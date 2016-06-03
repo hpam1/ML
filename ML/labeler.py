@@ -1,8 +1,6 @@
 """
 labeler.py
 
-@Email: haarthi.p@gmail.com
-
 This program contains implementations for Quora Labeler challenge.
 https://www.quora.com/challenges#labeler
  
